@@ -1,0 +1,8 @@
+.DS_Store
+analysis.json
+prd/
+*.pyc
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
